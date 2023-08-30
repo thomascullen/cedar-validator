@@ -21,7 +21,7 @@ console_error_panic_hook = { version = "0.1.7", optional = true }
 
 cedar-policy = { version = "=2.3.2" }
 cedar-policy-core = { version = "=2.3.2" }
-cedar-policy-validator = { version = "=2.3.2" }
+cedar-policy-validator = { version = "=2.3.3" }
 
 [dev-dependencies]
 wasm-bindgen-test = "0.3.34"
